@@ -2,6 +2,7 @@
 # Objective: Build a pick and place robotic arm
 <br/>
 <br/>
+
 # Introduction:
 <br/>
 The hardware is provided.Therefore, we only neeed to write the software on the NXP FRDM-K64F developement board. The operating system chosen is amazon FreeRTOS. The software is written using the mcuxpresso ide.
@@ -16,6 +17,7 @@ FRDM-K64F board pinout diagram
 
 <br/>
 <br/>
+
 # Requirements:
 <br/>
 mcuxpresso ide 
